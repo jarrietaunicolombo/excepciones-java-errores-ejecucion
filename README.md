@@ -1,4 +1,4 @@
-# Laboratorio 02 — Errores de ejecución en Java
+# Laboratorio 02: Errores de ejecución en Java
 
 ## Objetivo
 Distinguir los errores de compilación de los fallos que aparecen al ejecutar un programa Java. Identificar la excepción, el mensaje y la línea de origen a partir del *stack trace*.
